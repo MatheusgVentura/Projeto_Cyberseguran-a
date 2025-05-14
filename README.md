@@ -1,7 +1,4 @@
-# Projeto Cybersegurança
-
 # 💀 SKYCRACKER – Cybersecurity Toolkit (CLI)
-
 
 > Uma ferramenta de linha de comando para pentesters iniciantes ou entusiastas de segurança ofensiva, que automatiza comandos básicos usando ferramentas como **Nmap**, **Nikto**, **Hydra** e outros.
 
